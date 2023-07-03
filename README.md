@@ -1,2 +1,2 @@
-# Digital-Image-Processing
-Assignments for Digital Image Processing
+# Digital Image Processing
+Assignments for ECE371Q: Digital Image Processing
